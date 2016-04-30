@@ -1,0 +1,8 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MoviesActivity">
+
+    <item android:id="@+id/Most_Popular" android:title="Most_Popular" />
+    <item android:id="@+id/Highest_Rate" android:title="Highest_Rate" />
+    <item android:id="@+id/Favorite" android:title="Favorite" />
+</menu>
